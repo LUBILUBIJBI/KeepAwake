@@ -5,8 +5,6 @@
 No installer, no background service, no settings changed. One 10 KB `.exe` — click once to stay
 awake, click again and Windows behaves exactly as before.
 
----
-
 ## Why
 
 Watching a video, reading a long page, monitoring a dashboard, running a long download — and
